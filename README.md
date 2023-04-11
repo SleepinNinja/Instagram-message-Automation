@@ -1,4 +1,4 @@
-# Instagram-message-Automation-
+# Instagram-message-Automation
 
 A tkinter window will be provided where the user has 
 to enter his instagram login id, password and a message 
